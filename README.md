@@ -5,8 +5,6 @@
 **WindowsUtilityScript** is a single batch file that brings together essential Windows troubleshooting tools in an interactive terminal menu.  
 No installation required – just run `WindowsUtilityScript.bat` as Administrator and pick a task.
 
-![SpecterLogic Logo](https://via.placeholder.com/600x150/0d1117/58a6ff?text=SpecterLogic)
-
 ---
 
 ## 🚀 Features
